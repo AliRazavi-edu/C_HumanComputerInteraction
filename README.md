@@ -13,7 +13,7 @@ HumanComputerInteraction Course
 
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
-- [منبع درس طراحی واسط کاربر](#CourseRef)
+- [منبع درس تعامل انسان و کامپیوتر ](#CourseRef)
 - [سیلابس درس](#Curriculum)
 - [دروس مشابه دیگر دانشگاهها](#RelatedCourses)
 - [دیگر منابع](#RelatedRef)
